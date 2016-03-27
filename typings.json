@@ -1,0 +1,5 @@
+{
+  "name": "promise-queue",
+  "main": "index.d.ts",
+  "version": "2.2.3"
+}
